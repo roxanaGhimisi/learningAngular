@@ -1,0 +1,25 @@
+thead {
+  color: #111;
+}
+
+.acme-card {
+  background-color: #5a59590f;
+}
+
+.acme-card-body {
+  background-color:
+}
+
+.acme-btn {
+  background-color: #343a40bf;
+  box-shadow: 0 0 0 0.2rem #007bff40;
+  color: #fff;
+}
+
+.acme-btn:hover {
+  background-color: #111;
+}
+
+.acme-btn:focus {
+  box-shadow: 0 0 0 0.2rem #007bff40;
+}

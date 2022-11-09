@@ -1,0 +1,14 @@
+.nav-link {
+  font-size: large;
+}
+
+.acme-title {
+  -webkit-transition: all .2s ease-out;
+  -moz-transition: all .2s ease-out;
+  -ms-transition: all .2s ease-out;
+  -o-transition: all .2s ease-out;
+  transition: all .2s ease-out;
+  background: -moz-linear-gradient(top,#25211e 0,rgba(37,33,30,0) 100%);
+  background: -webkit-linear-gradient(top,#25211e 0,rgba(37,33,30,0) 100%);
+  background: linear-gradient(to bottom,#25211e 0,rgba(37,33,30,0) 100%);
+}

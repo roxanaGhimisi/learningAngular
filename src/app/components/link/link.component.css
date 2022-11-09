@@ -1,0 +1,13 @@
+a {
+  color: #000;
+}
+
+.swa-cms-link-component--standard {
+  width: 23rem;
+  min-height: 4rem;
+}
+
+.swa-cms-link-component--full {
+  width: 100%;
+  min-height: 4rem;
+}
